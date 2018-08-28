@@ -1,0 +1,16 @@
+/Users/bnatarajan/Projects/formsSample/formsSample/bin/Debug/netstandard2.0/formsSample.deps.json
+/Users/bnatarajan/Projects/formsSample/formsSample/bin/Debug/netstandard2.0/formsSample.dll
+/Users/bnatarajan/Projects/formsSample/formsSample/bin/Debug/netstandard2.0/formsSample.pdb
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/formsSample.csproj.CoreCompileInputs.cache
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/formsSample.AssemblyInfoInputs.cache
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/formsSample.AssemblyInfo.cs
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/formsSample.dll
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/formsSample.pdb
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/formsSample.csprojResolveAssemblyReference.cache
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/bnatarajan/Projects/formsSample/formsSample/obj/Debug/netstandard2.0/XamlC.stamp

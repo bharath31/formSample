@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{33B87713-D2C5-4B7A-A3E1-34E3BD9AB89B}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="formsSample/Views/MainPage.xaml">
+    <Files>
+      <File FileName="formsSample/Views/MainPage.xaml" Line="20" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.formsSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.387D098A-4300-4AE6-87A9-81C2F2BEEB6A" />
+  <MultiItemStartupConfigurations />
+</Properties>
