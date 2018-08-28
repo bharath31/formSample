@@ -1,7 +1,7 @@
 # formSample
 Sample Xamarin project
 
-##Dependencies
+## Dependencies
 - Stripe.net version 17.9
 - XAM.Plugin.Connectivity 4.0.0.190-beta
 - XAM.Plugin.Geolocator 4.5.0.6
